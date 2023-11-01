@@ -1,0 +1,14 @@
+D:\Cod\C#\Tema1lab\Tema1lab\bin\Debug\net6.0\Tema1lab.exe
+D:\Cod\C#\Tema1lab\Tema1lab\bin\Debug\net6.0\Tema1lab.deps.json
+D:\Cod\C#\Tema1lab\Tema1lab\bin\Debug\net6.0\Tema1lab.runtimeconfig.json
+D:\Cod\C#\Tema1lab\Tema1lab\bin\Debug\net6.0\Tema1lab.dll
+D:\Cod\C#\Tema1lab\Tema1lab\bin\Debug\net6.0\Tema1lab.pdb
+D:\Cod\C#\Tema1lab\Tema1lab\obj\Debug\net6.0\Tema1lab.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cod\C#\Tema1lab\Tema1lab\obj\Debug\net6.0\Tema1lab.AssemblyInfoInputs.cache
+D:\Cod\C#\Tema1lab\Tema1lab\obj\Debug\net6.0\Tema1lab.AssemblyInfo.cs
+D:\Cod\C#\Tema1lab\Tema1lab\obj\Debug\net6.0\Tema1lab.csproj.CoreCompileInputs.cache
+D:\Cod\C#\Tema1lab\Tema1lab\obj\Debug\net6.0\Tema1lab.dll
+D:\Cod\C#\Tema1lab\Tema1lab\obj\Debug\net6.0\refint\Tema1lab.dll
+D:\Cod\C#\Tema1lab\Tema1lab\obj\Debug\net6.0\Tema1lab.pdb
+D:\Cod\C#\Tema1lab\Tema1lab\obj\Debug\net6.0\Tema1lab.genruntimeconfig.cache
+D:\Cod\C#\Tema1lab\Tema1lab\obj\Debug\net6.0\ref\Tema1lab.dll
